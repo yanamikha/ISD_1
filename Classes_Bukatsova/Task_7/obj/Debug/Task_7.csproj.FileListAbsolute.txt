@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Classes_Bukatsova\Task_7\bin\Debug\Task_7.exe.config
+C:\Users\User\source\repos\Classes_Bukatsova\Task_7\bin\Debug\Task_7.exe
+C:\Users\User\source\repos\Classes_Bukatsova\Task_7\bin\Debug\Task_7.pdb
+C:\Users\User\source\repos\Classes_Bukatsova\Task_7\obj\Debug\Task_7.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Classes_Bukatsova\Task_7\obj\Debug\Task_7.exe
+C:\Users\User\source\repos\Classes_Bukatsova\Task_7\obj\Debug\Task_7.pdb
